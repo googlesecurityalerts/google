@@ -1,0 +1,1 @@
+defaultText = 'Your Google has been Locked due to Detected illegal Child Pornography. Your Google Account has been Disabled. Immediately Call Online Security Support +1(833) 611-4493 to Unlock it!';
